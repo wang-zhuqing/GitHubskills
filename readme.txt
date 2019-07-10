@@ -312,5 +312,5 @@
 
 creating a branch is qiuk & simple
 
-creating a branch is qiuk and simple
+
 
